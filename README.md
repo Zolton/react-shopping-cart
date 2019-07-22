@@ -28,10 +28,10 @@ In this project you'll take take an existing e-commerce store and refactor the a
 
 Follow these steps for completing your project.
 
-- [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into master (student's repository). **Please don't merge your own pull request**
-- [ ] Add your team lead as a reviewer on the pull-request
-- [ ] Your team lead will count the project as complete by merging the branch back into master.
-- [ ] Do your magic!
+- [ x] Submit a Pull-Request to merge `<firstName-lastName>` Branch into master (student's repository). **Please don't merge your own pull request**
+- [ x] Add your team lead as a reviewer on the pull-request
+- [ x] Your team lead will count the project as complete by merging the branch back into master.
+- [x ] Do your magic!
 
 # Project - Shopping Cart
 
@@ -39,7 +39,7 @@ Follow these steps for completing your project.
 
 Before you get started, please take a few minutes and get acquainted with this application. Understand what's going on and how it's working.
 
-- If you look in the `App.js` you'll notice there are currently two state properties - `products` to keep track of all available products, and `cart` that will keep track of all the items in our `cart`.
+x If you look in the `App.js` you'll notice there are currently two state properties - `products` to keep track of all available products, and `cart` that will keep track of all the items in our `cart`.
 
 - You'll also notice inside of our `App.js` we have 3 components. A navigation component and two route based components. Each of those components are all being passed either our `cart` state or `product` state as props, when we start to scale our application and add more props our codebase is going to start to become very cumbersome and will make our application hard to work with.
 
